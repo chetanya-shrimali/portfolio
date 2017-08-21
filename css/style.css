@@ -1,0 +1,42 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+hr {
+    width: 80%;
+    border: 2px solid #7d97ad;
+    border-radius: 2px;
+    color: #7d97ad;
+}
+/*header*/
+.text-top {
+    text-align: center;
+    padding: 0px;
+    font-size: 48px;
+}
+
+.text-define {
+    text-align: center;
+    padding: 15px;
+    font-size: 18px;
+}
+
+
+/*main image*/
+.main-image{
+    /*edits here*/
+}
+/*featured works*/
+.featured-work{
+    margin-top: 50px;
+}
+
+.featured-work-head-text{
+    font-size: 36px;
+}
+.figure-caption{
+    font-size: 24px;
+}
+.figure-caption-link{
+    font-size: 18px;
+}
